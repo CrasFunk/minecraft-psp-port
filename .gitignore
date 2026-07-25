@@ -1,0 +1,35 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.elf
+*.pbp
+obj/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Generated assets
+assets/textures/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+*.dll
+
+# Emulator
+PPSSPP/
+*.iso
