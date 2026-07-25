@@ -1,0 +1,5 @@
+minecraft-psp-v1.0.0.zip
+minecraft-psp-v*.zip
+*.egg-info/
+.pytest_cache/
+*.pyc
